@@ -1,4 +1,4 @@
-# 🛠️ Bug Bounty Tools Reference Guide
+# 🛠️ Tools Reference Guide
 
 This document provides a categorized list of tools used for **bug bounty hunting, reconnaissance, exploitation, and automation**.
 
