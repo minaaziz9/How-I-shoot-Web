@@ -6,16 +6,16 @@ This repository is designed to showcase my **web security methodology** with **s
 
 ## **🔹 Methodology Overview**
 
-### **1️⃣ Cloud Hacking** → [Cloud Hacking Guide](cloud_hacking.md)
-- AWS, GCP, and Azure security testing
-- S3/GCP bucket enumeration and exploitation (`lazys3`, `cloud_enum`)
-
-### **2️⃣ GitHub Secrets & PasteHunter** → [GitHub Recon Guide](github_recon.md)
+### **1️⃣ GitHub Secrets & PasteHunter** → [GitHub Recon Guide](github_recon.md)
 - Finding leaked API keys and credentials (`GitDorker`, `truffleHog`, `git-hound`)
 - Repository analysis for sensitive data
 - Monitoring GitHub commits and paste sites (`PasteHunter`)
 - Setting up automation for continuous monitoring
 
+### **2️⃣ Cloud Hacking** → [Cloud Hacking Guide](cloud_hacking.md)
+- AWS, GCP, and Azure security testing
+- S3/GCP bucket enumeration and exploitation (`lazys3`, `cloud_enum`)
+  
 ### **3️⃣ IP & CIDR (Network & Services)** → [Network Recon Guide](network_recon.md)
 - Discovering IP ranges and ASN mapping (`amass`, `shodan`, `censys`, `uncover`)
 - Scanning for exposed services (`nmap`, `masscan`)
