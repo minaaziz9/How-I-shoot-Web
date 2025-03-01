@@ -6,7 +6,7 @@ This repository is designed to showcase my **web security methodology** with **s
 
 ## **🔹 Methodology Overview**
 
-### **1️⃣ GitHub Secrets & PasteHunter** → [GitHub Recon Guide](github_recon.md)
+### **1️⃣ GitHub Secrets & PasteHunter** → [GitHub Leaks Guide](github_leaks.md)
 - Finding leaked API keys and credentials (`GitDorker`, `truffleHog`, `git-hound`)
 - Repository analysis for sensitive data
 - Monitoring GitHub commits and paste sites (`PasteHunter`)
