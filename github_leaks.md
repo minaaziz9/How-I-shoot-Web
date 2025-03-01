@@ -111,7 +111,5 @@ nohup ./monitor_github_leaks.sh &
 | `PasteHunter` | Identifies leaked credentials in paste sites |
 | `notify` | Sends real-time alerts when leaks are detected |
 
-✅ **Use these tools together** for maximum **GitHub recon efficiency**.
-
-🔥 **Now you have a full methodology for discovering and continuously monitoring GitHub leaks!** 🚀
+✅ **I use these tools together** for maximum **GitHub recon efficiency**.
 
