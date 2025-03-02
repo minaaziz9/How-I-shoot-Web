@@ -22,7 +22,7 @@ This repository is designed to showcase my **web security methodology** with **s
 - Exploiting misconfigured services (SMB, RDP, SSH, etc.)
 - Continuous monitoring for new vulnerabilities (`Shodan alerts`)
 
-### **4️⃣ Domains (Web Applications)** → [Web App Recon Guide](web_recon.md)
+### **4️⃣ Domains (Web Applications)** → [Web App Hacking Guide](web_recon.md)
 - **Processing `domains.txt`** → Enumeration with (`subfinder`, `amass`, `assetfinder`)
 - **Subdomain Monitoring** → Automating tracking (`Sublist3r`, `notify`)
 - **Live Hosts & URL Extraction** → (`httpx`, `katana`, `gau`, `waybackurls`)
