@@ -41,5 +41,5 @@ This document serves as an outline for the **Web Recon Methodology**, with each 
 
 ---
 
-### **🚀 This structured approach ensures each phase is detailed in its own file for easier execution!**
+
 
