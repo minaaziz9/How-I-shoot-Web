@@ -3,7 +3,9 @@
 **A structured methodology for web security testing, bug bounty hunting, and cloud security assessments.**
 
 This repository is designed to showcase my **web security methodology** with **step-by-step guides, tools, and scripts** used for reconnaissance, enumeration, and exploitation. Each phase is linked to a dedicated file with in-depth details and automation scripts.
-
+## 📄 Web Testing PDF
+![PDF Preview](https://github.com/your-repo-name/blob/main/web-testing.png)  
+[📄 View Full PDF](https://github.com/your-repo-name/blob/main/web-testing.pdf)
 ## **🔹 Methodology Overview**
 
 ### **1️⃣ GitHub Secrets & PasteHunter** → [GitHub Leaks Guide](github_leaks.md)
